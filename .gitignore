@@ -175,3 +175,4 @@ cython_debug/
 
 #data 폴더 안에 있는 파일은 업로드가 자동으로 제외
 data/
+lab02/
